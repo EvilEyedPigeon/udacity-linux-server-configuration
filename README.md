@@ -4,9 +4,9 @@ Configuration of a secure Ubuntu 16.04 server on [AWS Lightsail](https://lightsa
 
 ## Example Instance
 
-Instance IP address: 54.255.239.109
-Instance SSH port: 2200
-URL to web app on instance: http://54.255.239.109/
+- Instance IP address: 54.255.239.109
+- Instance SSH port: 2200
+- URL to web app on instance: http://54.255.239.109/
 
 ## Server Configuration Details
 

@@ -2,6 +2,12 @@
 
 Configuration of a secure Ubuntu 16.04 server on [AWS Lightsail](https://lightsail.aws.amazon.com/) to serve the [League of Legends item catalog Flask application](https://github.com/nginyc/udacity-lol-item-catalog-website).
 
+## Example Instance
+
+Instance IP address: 54.255.239.109
+Instance SSH port: 2200
+URL to web app on instance: http://54.255.239.109/
+
 ## Server Configuration Details
 
 Base image is a Ubuntu 16.04 LTS as an AWS Lightsail instance.
